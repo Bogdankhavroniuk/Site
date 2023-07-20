@@ -1,0 +1,14 @@
+.account-form input{
+  border: 2px solid #ccc;
+  height: calc(2em + .75rem + 2px);
+}
+
+.form-control {
+  border: 2px solid #b69696;
+  background-color: #ccc;
+}
+
+.account-form input:focus {
+border-color: #cfdce7;
+box-shadow: inset 0 0px 0px rgba(0, 0, 0, 0.075), 0 0 0px rgba(255, 0, 0, 0.6);
+}
